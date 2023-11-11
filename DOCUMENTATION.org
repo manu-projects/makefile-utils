@@ -1,0 +1,3 @@
+* Referencias
+** Issues
+1. https://stackoverflow.com/questions/52437728/bash-what-is-the-difference-between-pwd-and-curdir
